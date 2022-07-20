@@ -24,11 +24,11 @@ int main(){
     auto [min,max] = findPriceRange(dist);
     cout << "The min : - "<<min << " and max is " <<max<<endl;
     cout << endl;
-    cout <<"Course language is "<< CS106L.Course_Language<< endl;
-    cout <<"Course Schedule"<<endl;
-    cout << CS106L.Days[0] << " , "<< CS106L.Days[1] << endl ; 
-    cout << "Instructors are " << endl;
-    cout << CS106L.Instructors[0]<<endl;
-    cout << CS106L.Instructors[1]<<endl;
+    //cout <<"Course language is "<< CS106L.Course_Language<< endl;
+    // cout <<"Course Schedule"<<endl;
+    // cout << CS106L.Days[0] << " , "<< CS106L.Days[1] << endl ; 
+    // cout << "Instructors are " << endl;
+    // cout << CS106L.Instructors[0]<<endl;
+    // cout << CS106L.Instructors[1]<<endl;
     return 0;
 }
