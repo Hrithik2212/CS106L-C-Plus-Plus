@@ -2,7 +2,9 @@ Streams/Getting_Started.exe
 Streams/stream.exe
 Streams/getline.exe
 Streams/cin.exe
-Sequence Containers/struct.exe
+Streams/fstream.exe
+Streams/poem.txt
+Containers/struct.exe
 Basics/Qaudratic_function.exe
 Basics/Reference_Semantics.exe
 Basics/string.exe
