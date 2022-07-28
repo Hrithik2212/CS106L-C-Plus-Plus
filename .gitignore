@@ -4,8 +4,8 @@ Streams/getline.exe
 Streams/cin.exe
 Streams/fstream.exe
 Streams/poem.txt
-Containers/struct.exe
-Containers/map.exe
+STL/Containers/struct.exe
+STL/Containers/map.exe
 Basics/Qaudratic_function.exe
 Basics/Reference_Semantics.exe
 Basics/string.exe
